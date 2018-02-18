@@ -1,3 +1,7 @@
+LSTM
+SVM на sparse матрицах
+вордбатч + OneVsRestClassifier(LogisticRegression())
+
 [ods.ai] DenisVorotyntsev 0.44100
 порог 50 
 градиентный бустинг
